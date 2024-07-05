@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src='giphy.gif'  />
+<img align="right" height="150" src='public/giphy.gif'  />
 
 ###
 

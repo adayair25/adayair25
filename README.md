@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/374109/svelte.svg" height="35" alt="svelte logo"  />
+  <img src="public/typeScript.svg" height="32" alt="svelte logo"  />
   <img width="12" />
   <img src="public/astro.svg" height="32" alt="astro logo"  />
   <img width="12" />

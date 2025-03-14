@@ -27,7 +27,6 @@
   <img src="https://www.svgrepo.com/show/373848/mysql.svg" height="35" alt="MySQL logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/378789/deno.svg" height="35" alt="MySQL logo"  />
-  <img src="public/rust.png" height="35" alt="MySQL logo"  />
   
 </div>
 
